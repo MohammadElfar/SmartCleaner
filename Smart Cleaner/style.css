@@ -6,7 +6,7 @@ body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: rgb(123, 127, 158,.2);
+    background-color: #cfedf4;
 }
 .hero-details{
     background-color: white;
@@ -48,10 +48,10 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: #846BBA;
+    background-color: #73dbdd;
 }
 .app-info{
-    background-color: #775CB3;
+    background-color: #73dbdd;
     width: 95%;
     border-radius: 0 2rem 2rem 0;
 }
@@ -76,14 +76,15 @@ body {
 }
 .apple,.google,.huawei{
     padding: 2rem 3rem;
-    background-color: rgba(119, 92, 179,.3);
+    background-color: #a0e6e7;
     border-radius: 1.5rem;
     transition: .3s all;
     text-decoration: none !important;
+    
 
 }
 .apple:hover,.google:hover,.huawei:hover{
-    background-color: #49357c;
+    background-color: #16d4d3;
     border-radius: 1.5rem;
     cursor: pointer;
 }
@@ -115,7 +116,7 @@ body {
     display: block;
 }
 .footer{
-    background: #2C243F;
+    background: #3d3d3d;
 }
 .footer-elements{
     display: flex;
@@ -137,7 +138,7 @@ body {
 
 .hero-button{
     padding: 2rem 2rem 2rem 2.5rem;
-    background:  #775CB3;
+    background:  #16d4d3;
     display: inline-block;
     border-radius: 2rem;
     position: relative;
@@ -168,7 +169,7 @@ body {
     font-size: 4rem;
     height: 4rem;
     width: 4rem;
-    color: #775CB3;
+    color: #16d4d3;
     background-color: white;
     border-radius: 1rem;
 }
